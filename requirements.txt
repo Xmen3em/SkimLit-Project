@@ -1,7 +1,6 @@
 numpy
 pandas
 tensorflow
-tensorflow_text
 spaCy
 streamlit
 pickle
