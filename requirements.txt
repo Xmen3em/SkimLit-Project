@@ -3,5 +3,4 @@ pandas
 tensorflow
 spaCy
 streamlit
-pickle
 tensorflow_hub
