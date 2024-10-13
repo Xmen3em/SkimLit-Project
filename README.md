@@ -14,8 +14,6 @@ SkimLit is an NLP-based web application designed to help researchers efficiently
 
 This project replicates the deep learning models outlined in the 2017 paper, **PubMed 200k RCT: A Dataset for Sequential Sentence Classification in Medical Abstracts**.
 
-### [Try the Demo: Web App](#) <!-- Add link to demo -->
-
 ---
 
 ## Table of Contents
