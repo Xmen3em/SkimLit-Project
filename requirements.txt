@@ -4,3 +4,4 @@ tensorflow
 spaCy
 streamlit
 tensorflow_hub
+scikit-learn
