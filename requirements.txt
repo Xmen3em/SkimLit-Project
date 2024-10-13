@@ -1,0 +1,8 @@
+numpy
+pandas
+tensorflow
+tensorflow_text
+spaCy
+streamlit
+pickle
+tensorflow_hub
